@@ -1,4 +1,4 @@
-package io.github.linyimin.startup;
+package io.github.linyimin0812.startup;
 
 import java.io.File;
 

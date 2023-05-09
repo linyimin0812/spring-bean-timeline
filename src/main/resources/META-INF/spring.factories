@@ -1,2 +1,2 @@
 org.springframework.context.ApplicationContextInitializer = \
-  io.github.linyimin.startup.BeanLoadTimeCostApplicationContextInitializer
+  io.github.linyimin0812.startup.BeanLoadTimeCostApplicationContextInitializer

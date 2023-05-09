@@ -1,6 +1,6 @@
-package io.github.linyimin.startup;
+package io.github.linyimin0812.startup;
 
-import io.github.linyimin.startup.container.IocContainerHolder;
+import io.github.linyimin0812.startup.container.IocContainerHolder;
 import org.springframework.beans.factory.BeanCreationException;
 import org.springframework.beans.factory.support.DefaultListableBeanFactory;
 import org.springframework.beans.factory.support.RootBeanDefinition;

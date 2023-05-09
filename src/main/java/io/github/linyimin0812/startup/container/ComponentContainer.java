@@ -1,6 +1,6 @@
-package io.github.linyimin.startup.container;
+package io.github.linyimin0812.startup.container;
 
-import io.github.linyimin.startup.reporter.JaegerReporter;
+import io.github.linyimin0812.startup.reporter.JaegerReporter;
 import org.picocontainer.MutablePicoContainer;
 import org.picocontainer.PicoBuilder;
 

@@ -1,7 +1,7 @@
-package com.github.linyimin.startup.reporter;
+package io.github.linyimin.startup.reporter;
 
-import com.github.linyimin.startup.AppNameUtil;
-import com.github.linyimin.startup.BeanCreateResult;
+import io.github.linyimin.startup.AppNameUtil;
+import io.github.linyimin.startup.BeanCreateResult;
 import io.opentelemetry.api.common.Attributes;
 import io.opentelemetry.api.trace.Span;
 import io.opentelemetry.api.trace.Tracer;

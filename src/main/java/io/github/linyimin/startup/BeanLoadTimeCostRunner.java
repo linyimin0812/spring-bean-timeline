@@ -1,7 +1,7 @@
-package com.github.linyimin.startup;
+package io.github.linyimin.startup;
 
-import com.github.linyimin.startup.container.IocContainerHolder;
-import com.github.linyimin.startup.reporter.JaegerReporter;
+import io.github.linyimin.startup.container.IocContainerHolder;
+import io.github.linyimin.startup.reporter.JaegerReporter;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
 

@@ -1,6 +1,6 @@
-package com.github.linyimin.startup.container;
+package io.github.linyimin.startup.container;
 
-import com.github.linyimin.startup.BeanCreateResult;
+import io.github.linyimin.startup.BeanCreateResult;
 
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;

@@ -1,6 +1,6 @@
-package com.github.linyimin.startup;
+package io.github.linyimin.startup;
 
-import com.github.linyimin.startup.container.IocContainerHolder;
+import io.github.linyimin.startup.container.IocContainerHolder;
 import org.springframework.context.ApplicationContextInitializer;
 import org.springframework.context.ConfigurableApplicationContext;
 import org.springframework.context.support.GenericApplicationContext;

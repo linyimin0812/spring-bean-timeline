@@ -1,2 +1,4 @@
 org.springframework.context.ApplicationContextInitializer = \
   io.github.linyimin0812.startup.BeanLoadTimeCostApplicationContextInitializer
+
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=io.github.linyimin0812.startup.StartupConfiguration

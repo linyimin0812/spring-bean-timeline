@@ -1,3 +1,6 @@
+[中文](README.md) |
+[ENGLISH](README_EN.md)
+
 # 使用
 
 1. 启动jaeger
@@ -26,6 +29,8 @@ $ docker run -d --name jaeger \
 ```
 
 # 效果
+
+点击http://127.0.0.1:16686 查看效果
 
 ![](./docs/spring-bean-timeline.jpg)
 

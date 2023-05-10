@@ -1,3 +1,6 @@
+[中文](README.md) |
+[ENGLISH](README_EN.md)
+
 # Usage
 
 1. Lunch jaeger

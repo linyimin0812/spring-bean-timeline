@@ -1,9 +1,9 @@
 [中文](README.md) |
 [ENGLISH](README_EN.md)
 
-# 使用
+# Usage
 
-1. 启动jaeger
+1. Lunch jaeger
 
 ```shell
 $ docker run -d --name jaeger \
@@ -18,7 +18,7 @@ $ docker run -d --name jaeger \
   jaegertracing/all-in-one:1.6
 ```
 
-2. 项目中引入相关依赖
+2. Import dependency
 
 ```xml
 <dependency>
@@ -28,9 +28,9 @@ $ docker run -d --name jaeger \
 </dependency>
 ```
 
-# 效果
+# Result
 
-点击http://127.0.0.1:16686 查看效果
+Click http://127.0.0.1:16686 to view the result.
 
 ![](./docs/spring-bean-timeline.jpg)
 
